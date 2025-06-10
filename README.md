@@ -1,8 +1,8 @@
 ---
 
-## Training Performance
+## ✨ Training Performance
 
-The model shows strong performance over 10 epochs. Here's a quick look at the training progression:
+Our model shows strong performance over 10 epochs. Here's a quick look at the training progression:
 
 | Epoch No. | Train Loss | Train Accuracy | Validation Loss | Validation Accuracy |
 | :-------- | :--------- | :------------- | :-------------- | :------------------ |
@@ -17,5 +17,6 @@ The model shows strong performance over 10 epochs. Here's a quick look at the tr
 | **9** | **0.0683** | 98.51% | **0.0122** | **98.97%** |
 | **10** | 0.0686 | 98.58% | 0.0150 | 98.39% |
 
-The model quickly achieved high accuracy on both training and validation sets, with the **validation accuracy peaking at 98.97% by epoch 9**. 
+As you can see, the model quickly achieved high accuracy on both training and validation sets, with the **validation accuracy peaking at 98.97% by epoch 9**. This indicates a robust model that generalizes well to unseen rice images.
+
 ---
